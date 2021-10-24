@@ -110,3 +110,20 @@ hr {
   width: 100%;
   height: 180px;
 }
+
+.tarjetas-noticias h3 {
+  font-size: 20px;
+  margin: 10px 0;
+}
+
+.tarjetas-noticias a {
+  padding: 10px 0;
+  color: #f2f2f2;
+  text-transform: uppercase;
+  display: inline-block;
+  font-weight: bold;
+}
+
+.tarjetas-noticias a:hover {
+  text-decoration: underline;
+}
