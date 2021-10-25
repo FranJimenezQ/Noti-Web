@@ -127,3 +127,11 @@ hr {
 .tarjetas-noticias a:hover {
   text-decoration: underline;
 }
+
+/*banner-tarjetas-1*/
+.banner-tarjetas-1 {
+  width: 100%;
+  height: 350px;
+  background: url("./img/banner1.jpg");
+  margin-bottom: 40px;
+}
